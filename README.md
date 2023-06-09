@@ -12,5 +12,3 @@ Type /new_puzzle command to show a random Lichess puzzle from local database.
 # TODO list
 - Add buttons for user to choose the answer among 4 options
 - Count how many times the puzzle was played and solved to show the least played/solved
-- Add a profile pic
-- Add other options of "Correct"/"Incorrect" statements
